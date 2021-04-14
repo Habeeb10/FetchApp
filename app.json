@@ -1,0 +1,12 @@
+{
+  "name": "FetchApp",
+  "displayName": "FetchApp",
+  "expo": {
+    "name": "FetchApp",
+    "slug": "FetchApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
